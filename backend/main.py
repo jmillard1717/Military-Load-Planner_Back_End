@@ -1,0 +1,1 @@
+# FastAPI with CG offset per pallet and save/load logic
